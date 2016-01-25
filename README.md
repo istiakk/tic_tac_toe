@@ -1,4 +1,6 @@
 # tic_tac_toe
-This is the famous tic_tac_toe games solution.
+This is One of my fav game tic_tac_toe.
+
 The game is written on javaScript.
-Enjoy !!!
+
+Enjoy the game!!!
